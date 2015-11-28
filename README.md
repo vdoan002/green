@@ -1,5 +1,5 @@
 # green
-Help the average person get more involved in enviromental issues.
+Help the average person get more involved in enviromental issues. This website uses the Esri API to give people important information about environmental issues near them. It also allows them to report issues, create events and join their community members to take action.
 
-# point data format 
-Object { type: "point", x: -10604871.2260473, y: 4716694.562457486, spatialReference: Object }
+TL;DR
+SIMPLY, THE BEST MUTHAFUCKIN WEBSITE
